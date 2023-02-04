@@ -1,5 +1,8 @@
 {
   "names": {
     "moid": "5a8cd42161891cd50aab4a7eeeecb5d673d44c997610c8f9e97c894309f437a4" 
+  },
+  "relays": {
+    "5a8cd42161891cd50aab4a7eeeecb5d673d44c997610c8f9e97c894309f437a4": [ "wss://relay.damus.io", "wss://eden.nostr.land" ]
   }
 }
